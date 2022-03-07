@@ -25,6 +25,18 @@
             {
                 Console.WriteLine("both line are not equal");
             }
+            if (a > b)
+            {
+                Console.WriteLine("line1 is greaterthen");
+            }
+            else if (b > a)
+            {
+                Console.WriteLine("line2 is greaterthan");
+            }
+            else
+            {
+                Console.WriteLine("both line are equal");
+            }
         }
     }
 }
