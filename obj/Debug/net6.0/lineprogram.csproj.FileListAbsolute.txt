@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\lineprogram\lineprogram\bin\Debug\net6.0\lineprogram.exe
+C:\Users\user\source\repos\lineprogram\lineprogram\bin\Debug\net6.0\lineprogram.deps.json
+C:\Users\user\source\repos\lineprogram\lineprogram\bin\Debug\net6.0\lineprogram.runtimeconfig.json
+C:\Users\user\source\repos\lineprogram\lineprogram\bin\Debug\net6.0\lineprogram.dll
+C:\Users\user\source\repos\lineprogram\lineprogram\bin\Debug\net6.0\lineprogram.pdb
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\lineprogram.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\lineprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\lineprogram.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\lineprogram.AssemblyInfo.cs
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\lineprogram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\lineprogram.dll
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\refint\lineprogram.dll
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\lineprogram.pdb
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\lineprogram.genruntimeconfig.cache
+C:\Users\user\source\repos\lineprogram\lineprogram\obj\Debug\net6.0\ref\lineprogram.dll
