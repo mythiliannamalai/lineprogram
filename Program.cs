@@ -17,6 +17,14 @@
             var b= Math.Pow(y2 - y1, 2);
             var distance = Math.Sqrt(a+b);
             Console.WriteLine("distance of 2 point is : " + distance);
+            if (a == b)
+            {
+                Console.WriteLine("both line are equal");
+            }
+            else
+            {
+                Console.WriteLine("both line are not equal");
+            }
         }
     }
 }
