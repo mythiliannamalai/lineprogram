@@ -2,21 +2,30 @@
 {
     class program
     {
-        static void Main(string[] args)
+        public int x1;
+        public int x2;
+        public int y1;
+        public int y2;
+        public double a;
+        public double b;
+        public void Calculation()
         {
             Console.WriteLine("Welcome to the line comparison camputation");
             Console.WriteLine("enter x1 value : ");
-            var x1 = Convert.ToDouble(Console.ReadLine());
+            x1 = int.Parse(Console.ReadLine());
             Console.WriteLine("enter x2 value : ");
-            var x2 = Convert.ToDouble(Console.ReadLine());
+             x2 = int.Parse(Console.ReadLine());
             Console.WriteLine("enter y1 value : ");
-            var y1 = Convert.ToDouble(Console.ReadLine());
+             y1 = int.Parse(Console.ReadLine());
             Console.WriteLine("enter y2 value : ");
-            var y2 = Convert.ToDouble(Console.ReadLine());
-            var a = Math.Pow(x2 - x1, 2);
-            var b= Math.Pow(y2 - y1, 2);
-            var distance = Math.Sqrt(a+b);
+             y2 = int.Parse(Console.ReadLine());
+             a= Math.Pow(x2 - x1, 2);
+             b = Math.Pow(y2 - y1, 2);
+            var distance = Math.Sqrt(a + b);
             Console.WriteLine("distance of 2 point is : " + distance);
+        }
+        public void Equal_not()
+        {
             if (a == b)
             {
                 Console.WriteLine("both line are equal");
@@ -25,6 +34,9 @@
             {
                 Console.WriteLine("both line are not equal");
             }
+        }
+        public void Comparetion()
+        {
             if (a > b)
             {
                 Console.WriteLine("line1 is greaterthen");
@@ -37,6 +49,13 @@
             {
                 Console.WriteLine("both line are equal");
             }
+        }
+        static void Main(string[] args)
+        {
+            program program =new program();
+            program.Calculation();
+            program.Equal_not();
+            program.Comparetion();
         }
     }
 }
